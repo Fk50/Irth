@@ -1,0 +1,6 @@
+{
+  "name": "Irth",
+  "description": "A digital archiving and heritage preservation platform for organizations, families, and institutions to secure and catalog their history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
